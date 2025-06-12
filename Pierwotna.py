@@ -36,8 +36,8 @@ zwiazki_chemiczne = {
     "Po": ("polon","neutralny","pierwiastek radioaktywny"),
     "U": ("uran","neutralny","pierwiastek radioaktywny"),
     "W": ("wolfram","neutralny","metal"),
-    "Se": ("Selen","neutraln","niemetal"),
-    
+    "Se": ("selen","neutralny","niemetal"),
+    "Sn": ("cyna","neutralny","metal"),
     # Cząsteczki
     "H2": ("cząsteczka wodoru", "neutralny", "cząsteczka"),
     "O2": ("cząsteczka tlenu", "neutralny", "cząsteczka"),
@@ -45,6 +45,7 @@ zwiazki_chemiczne = {
     "Cl2": ("cząsteczka chloru", "neutralny", "cząsteczka"),
     "I2": ("cząsteczka jodu", "neutralny", "cząsteczka"),
     "Br2": ("cząsteczka bromu", "neutralny", "cząsteczka"),
+    "N2": ("cząsteczka azotu", "neutralny", "cząsteczka"),
     
     # Tlenki zasadowe
     "Na2O": ("tlenek sodu", "zasadowy", "tlenek"),
