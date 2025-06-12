@@ -27,10 +27,13 @@ zwiazki_chemiczne = {
     "Cl": ("chlor", "neutralny", "niemetal"),
     "Br": ("brom", "neutralny", "niemetal"),
     "Au": ("złoto","neutralny","metal"),
-    "Ag": ("srebro","neutralne","metal"),
+    "Ag": ("srebro","neutralny","metal"),
     "Hg": ("rtęć","neutralny","metal"),
-    "Pb": ("ołów","neutralne","metal"),
-    
+    "Pb": ("ołów","neutralny","metal"),
+    "He": ("hel","neutralny","gaz szlachetny"),
+    "Co": ("kobalt","neutralny","metal"),
+    "Ni": ("nikiel","neutralny","metal"),
+    "Po": ("polon","neutralny","pierwiastek radioaktywny"),
     # Cząsteczki
     "H2": ("cząsteczka wodoru", "neutralny", "cząsteczka"),
     "O2": ("cząsteczka tlenu", "neutralny", "cząsteczka"),
