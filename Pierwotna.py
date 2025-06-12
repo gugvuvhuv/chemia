@@ -2,6 +2,7 @@
 zwiazki_chemiczne = {
     # Pierwiastki
     "Be": ("beryl","neutralny","metal"),
+    "Li": ("lit","neutralny","metal"),
     "Na": ("sód", "neutralny", "metal"),
     "K": ("potas", "neutralny", "metal"),
     "Mg": ("magnez", "neutralny", "metal"),
