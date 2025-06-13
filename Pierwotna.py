@@ -62,7 +62,7 @@ zwiazki_chemiczne = {
     "K2O": ("tlenek potasu", "zasadowy", "tlenek"),
     "CaO": ("tlenek wapnia", "zasadowy", "tlenek"),
     "CrO": ("tlenek chromu (II)", "zasadowy", "tlenek"),
-    "MnO": ("tlenek manganu (IeI)", "zasadowy", "tlenek"),
+    "MnO": ("tlenek manganu (II)", "zasadowy", "tlenek"),
     "Mn2O3": ("tlenek manganu (III)","zasadowy","tlenek"),
     
     # Tlenki kwasowe
